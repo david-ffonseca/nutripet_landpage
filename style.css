@@ -68,7 +68,7 @@ nav a {
 /* HERO */
 .hero {
     height: 100vh;
-    background: url("assets/hero.png") center/cover no-repeat;
+    background: url("hero.png") center/cover no-repeat;
     position: relative;
     display: flex;
     align-items: center;
@@ -184,3 +184,4 @@ nav a {
         font-size: 38px;
     }
 }
+
